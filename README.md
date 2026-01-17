@@ -87,16 +87,15 @@ Final Year Student
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
-
-### URL Entered Before Analysis
-![URL Input](screenshots/url_entered_before_analysis.png)
+<img src="screenshots/home_page.png" width="600"/>
 
 ### Safe URL Result
-![Safe URL Result](screenshots/safe_url_result.png)
+<img src="screenshots/safe_url_result.png" width="600"/>
 
 ### Malicious URL Result
-![Malicious URL Result](screenshots/malicious_url_result.png)
+<img src="screenshots/malicious_url_result.png" width="600"/>
 
 ### Risk Indicators
-![Risk Indicators](screenshots/risk_indicators.png)
+<img src="screenshots/risk_indicators.png" width="600"/>
+
+
