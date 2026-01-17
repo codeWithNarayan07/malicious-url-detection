@@ -84,18 +84,4 @@ python src/main.py
 Narayan Ammannavar
 Final Year Student
 
-## 📸 Screenshots
-
-### Home Page
-<img src="screenshots/home_page.png" width="600"/>
-
-### Safe URL Result
-<img src="screenshots/safe_url_result.png" width="600"/>
-
-### Malicious URL Result
-<img src="screenshots/malicious_url_result.png" width="600"/>
-
-### Risk Indicators
-<img src="screenshots/risk_indicators.png" width="600"/>
-
 
