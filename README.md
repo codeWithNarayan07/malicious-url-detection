@@ -83,3 +83,20 @@ python src/main.py
 👤 Author
 Narayan Ammannavar
 Final Year Student
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### URL Entered Before Analysis
+![URL Input](screenshots/url_entered_before_analysis.png)
+
+### Safe URL Result
+![Safe URL Result](screenshots/safe_url_result.png)
+
+### Malicious URL Result
+![Malicious URL Result](screenshots/malicious_url_result.png)
+
+### Risk Indicators
+![Risk Indicators](screenshots/risk_indicators.png)
